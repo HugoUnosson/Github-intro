@@ -13,13 +13,6 @@ public class Main {
      bro 
      bro 
      */
-    
-    /*Hej
-    Aron
-    Gör
-    Mig
-    Ledsen
-    */
     System.out.println("JO!");
-    //My g
+    System.out.println("BRO!");
 }
