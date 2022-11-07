@@ -13,5 +13,5 @@ public class Main {
      bro 
      bro 
      */
-    
+    System.out.println("JO!");
 }
