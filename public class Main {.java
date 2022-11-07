@@ -5,6 +5,8 @@ public class Main {
     System.out.println("Arons is the best!");
     /*bro */
     System.out.println("NEJ!");
+
+    /*Another bro */
     /*bro
      bro 
      bro 
@@ -18,4 +20,5 @@ public class Main {
     Mig
     Ledsen
     */
+    System.out.println("JO!");
 }
